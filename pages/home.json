@@ -1,0 +1,44 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "UhDSoO"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [],
+      "type": "core-component",
+      "id": "badge",
+      "expressions": [
+        {
+          "expression": "\"modified\"",
+          "to": "text"
+        }
+      ],
+      "mapLines": []
+    }
+  ]
+}
