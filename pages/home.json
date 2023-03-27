@@ -34,7 +34,7 @@
       "id": "badge",
       "expressions": [
         {
-          "expression": "\"modified\"",
+          "expression": "\"modified on test branch\"",
           "to": "text"
         }
       ],
