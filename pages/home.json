@@ -39,6 +39,41 @@
         }
       ],
       "mapLines": []
+    },
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "qig7yqc3h7a"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [],
+      "type": "core-component",
+      "id": "badge",
+      "expressions": [
+        {
+          "expression": "\"modified\"",
+          "to": "text"
+        }
+      ],
+      "mapLines": []
     }
   ]
 }
