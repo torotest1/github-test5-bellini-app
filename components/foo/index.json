@@ -1,0 +1,8 @@
+{
+  "type": "custom-component",
+  "name": "foo",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": []
+}
